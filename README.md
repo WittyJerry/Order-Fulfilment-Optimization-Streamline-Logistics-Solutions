@@ -129,6 +129,11 @@ ORDER BY AvgDelay DESC;
 ---
 
 ## Results / Findings
+**Driver Performance:**  
+![Driver Performance](https://github.com/WittyJerry/Order-Fulfilment-Optimization-Streamline-Logistics-Solutions/blob/main/Logistics%20Dashboard%201.png)
+
+**Delivery Performance:**  
+![Delivery Performance](https://github.com/WittyJerry/Order-Fulfilment-Optimization-Streamline-Logistics-Solutions/blob/main/Logistics%20Dashboard%202.png)
 
 <details>
 <summary>📌 Delivery Performance</summary>
